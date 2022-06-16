@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Wind Speed Globe](https://visgallery.ucar.edu/wp-content/uploads/2018/10/windspeed0.png)
